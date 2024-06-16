@@ -1,0 +1,12 @@
+C:\Users\Administrator\Documents\SharpDevelop Projects\z\z\obj\Debug\z.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\SharpDevelop Projects\z\z\bin\Debug\z.exe.config
+C:\Users\Administrator\Documents\SharpDevelop Projects\z\z\bin\Debug\z.exe
+C:\Users\Administrator\Documents\SharpDevelop Projects\z\z\bin\Debug\z.pdb
+C:\Users\Administrator\Documents\SharpDevelop Projects\z\z\obj\Debug\z.exe
+C:\Users\Administrator\Documents\SharpDevelop Projects\z\z\obj\Debug\z.pdb
+C:\Users\Administrator\Desktop\filterinput\z\obj\Debug\z.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\filterinput\z\bin\Debug\filterinput.exe.config
+C:\Users\Administrator\Desktop\filterinput\z\bin\Debug\filterinput.exe
+C:\Users\Administrator\Desktop\filterinput\z\bin\Debug\filterinput.pdb
+C:\Users\Administrator\Desktop\filterinput\z\obj\Debug\filterinput.exe
+C:\Users\Administrator\Desktop\filterinput\z\obj\Debug\filterinput.pdb
