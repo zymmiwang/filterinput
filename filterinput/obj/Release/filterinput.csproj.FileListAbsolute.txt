@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\filterinput\filterinput\bin\Release\filterinput.exe.config
+C:\Users\Administrator\Desktop\filterinput\filterinput\bin\Release\filterinput.exe
+C:\Users\Administrator\Desktop\filterinput\filterinput\obj\Release\filterinput.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\filterinput\filterinput\obj\Release\filterinput.exe
