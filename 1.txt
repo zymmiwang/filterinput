@@ -1,0 +1,2 @@
+filterinput，以1/4频率过滤键鼠。
+作者zymmiwang，希望大家整蛊愉快。
