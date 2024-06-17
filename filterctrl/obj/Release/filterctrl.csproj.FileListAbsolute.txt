@@ -1,0 +1,4 @@
+E:\filterinput\filterinput\filterctrl\bin\Release\filterctrl.exe.config
+E:\filterinput\filterinput\filterctrl\bin\Release\filterctrl.exe
+E:\filterinput\filterinput\filterctrl\obj\Release\filterctrl.csprojResolveAssemblyReference.cache
+E:\filterinput\filterinput\filterctrl\obj\Release\filterctrl.exe

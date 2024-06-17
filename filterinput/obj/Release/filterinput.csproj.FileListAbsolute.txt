@@ -2,3 +2,7 @@ C:\Users\Administrator\Desktop\filterinput\filterinput\bin\Release\filterinput.e
 C:\Users\Administrator\Desktop\filterinput\filterinput\bin\Release\filterinput.exe
 C:\Users\Administrator\Desktop\filterinput\filterinput\obj\Release\filterinput.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Desktop\filterinput\filterinput\obj\Release\filterinput.exe
+E:\filterinput\filterinput\filterinput\bin\Release\filterinput.exe.config
+E:\filterinput\filterinput\filterinput\bin\Release\filterinput.exe
+E:\filterinput\filterinput\filterinput\obj\Release\filterinput.csprojResolveAssemblyReference.cache
+E:\filterinput\filterinput\filterinput\obj\Release\filterinput.exe

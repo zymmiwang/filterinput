@@ -519,7 +519,7 @@ namespace filterinput
                 
 
 
-                if ((int)Control.ModifierKeys == (int)Keys.Control + (int)Keys.Alt + (int)Keys.Delete)      //截获Ctrl+Alt+Delete 
+                if ((int)Control.ModifierKeys == (int)Keys.Control + (int)Keys.Alt + (int)Keys.Delete)      //截获Ctrl+Alt+Delete (虽然无效)
                 {
                     return 1;
                 }
@@ -528,11 +528,17 @@ namespace filterinput
                 {
                     return 1;
                 }
+                
+                if ((int)Control.ModifierKeys == (int)Keys.Control + (int)Keys.Alt) //截获Ctrl+alt
+                {
+                    return 1;
+                }
 
                 if (kbh.vkCode == (int)Keys.Space && (int)Control.ModifierKeys == (int)Keys.Control + (int)Keys.Alt) //截获Ctrl+Alt+空格 
                 {
                     return 1;
                 }
+                
                 if (kbh.vkCode == (int)Keys.Tab && (int)Control.ModifierKeys == (int)Keys.Control + (int)Keys.Alt) //截获Ctrl+Alt+Tab 
                 {
                     return 1;
