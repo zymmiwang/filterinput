@@ -2,3 +2,11 @@ E:\filterinput\filterinput\filterctrl\bin\Release\filterctrl.exe.config
 E:\filterinput\filterinput\filterctrl\bin\Release\filterctrl.exe
 E:\filterinput\filterinput\filterctrl\obj\Release\filterctrl.csprojResolveAssemblyReference.cache
 E:\filterinput\filterinput\filterctrl\obj\Release\filterctrl.exe
+H:\filterinput\filterctrl\bin\Release\filterctrl.exe.config
+H:\filterinput\filterctrl\bin\Release\filterctrl.exe
+H:\filterinput\filterctrl\obj\Release\filterctrl.csproj.AssemblyReference.cache
+H:\filterinput\filterctrl\obj\Release\filterctrl.csproj.SuggestedBindingRedirects.cache
+H:\filterinput\filterctrl\obj\Release\filterctrl.Properties.Resources.resources
+H:\filterinput\filterctrl\obj\Release\filterctrl.csproj.GenerateResource.cache
+H:\filterinput\filterctrl\obj\Release\filterctrl.csproj.CoreCompileInputs.cache
+H:\filterinput\filterctrl\obj\Release\filterctrl.exe

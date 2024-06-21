@@ -6,3 +6,12 @@ E:\filterinput\filterinput\filterinput\bin\Release\filterinput.exe.config
 E:\filterinput\filterinput\filterinput\bin\Release\filterinput.exe
 E:\filterinput\filterinput\filterinput\obj\Release\filterinput.csprojResolveAssemblyReference.cache
 E:\filterinput\filterinput\filterinput\obj\Release\filterinput.exe
+H:\filterinput\filterinput\bin\Release\filterinput.exe.config
+H:\filterinput\filterinput\bin\Release\filterinput.exe
+H:\filterinput\filterinput\obj\Release\filterinput.csproj.AssemblyReference.cache
+H:\filterinput\filterinput\obj\Release\filterinput.csproj.SuggestedBindingRedirects.cache
+H:\filterinput\filterinput\obj\Release\filterinput.MainForm.resources
+H:\filterinput\filterinput\obj\Release\filterinput.Properties.Resources.resources
+H:\filterinput\filterinput\obj\Release\filterinput.csproj.GenerateResource.cache
+H:\filterinput\filterinput\obj\Release\filterinput.csproj.CoreCompileInputs.cache
+H:\filterinput\filterinput\obj\Release\filterinput.exe

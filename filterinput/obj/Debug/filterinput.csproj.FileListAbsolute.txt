@@ -4,3 +4,14 @@ E:\filterinput\filterinput\filterinput\bin\Debug\filterinput.pdb
 E:\filterinput\filterinput\filterinput\obj\Debug\filterinput.exe
 E:\filterinput\filterinput\filterinput\obj\Debug\filterinput.pdb
 E:\filterinput\filterinput\filterinput\obj\Debug\filterinput.csprojResolveAssemblyReference.cache
+H:\filterinput\filterinput\bin\Debug\filterinput.exe.config
+H:\filterinput\filterinput\bin\Debug\filterinput.exe
+H:\filterinput\filterinput\bin\Debug\filterinput.pdb
+H:\filterinput\filterinput\obj\Debug\filterinput.csproj.AssemblyReference.cache
+H:\filterinput\filterinput\obj\Debug\filterinput.csproj.SuggestedBindingRedirects.cache
+H:\filterinput\filterinput\obj\Debug\filterinput.csproj.CoreCompileInputs.cache
+H:\filterinput\filterinput\obj\Debug\filterinput.exe
+H:\filterinput\filterinput\obj\Debug\filterinput.pdb
+H:\filterinput\filterinput\obj\Debug\filterinput.MainForm.resources
+H:\filterinput\filterinput\obj\Debug\filterinput.csproj.GenerateResource.cache
+H:\filterinput\filterinput\obj\Debug\filterinput.Properties.Resources.resources

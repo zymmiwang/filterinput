@@ -33,13 +33,12 @@ namespace filterctrl
 			Form MainForm = new Form();
 			MainForm.Text="filterinput控制台";
 			MainForm.Size = new Size(375,500);
-			MainForm.Icon = new Icon("ie.ico");
+			MainForm.Icon = Properties.Resources.ie;
 			MainForm.MaximizeBox = false;
 			MainForm.FormBorderStyle=FormBorderStyle.FixedSingle;
 			
 			
-			Image myimage = new Bitmap("1.jpg");
-    		MainForm.BackgroundImage = myimage;
+    		MainForm.BackgroundImage = Properties.Resources._1;
 			MainForm.BackgroundImageLayout=ImageLayout.Stretch;
 			MainForm.Opacity = 0.9;
 			

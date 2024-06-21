@@ -4,3 +4,13 @@ E:\filterinput\filterinput\filterctrl\bin\Debug\filterctrl.exe
 E:\filterinput\filterinput\filterctrl\bin\Debug\filterctrl.pdb
 E:\filterinput\filterinput\filterctrl\obj\Debug\filterctrl.exe
 E:\filterinput\filterinput\filterctrl\obj\Debug\filterctrl.pdb
+H:\filterinput\filterctrl\bin\Debug\filterctrl.exe.config
+H:\filterinput\filterctrl\bin\Debug\filterctrl.exe
+H:\filterinput\filterctrl\bin\Debug\filterctrl.pdb
+H:\filterinput\filterctrl\obj\Debug\filterctrl.csproj.AssemblyReference.cache
+H:\filterinput\filterctrl\obj\Debug\filterctrl.csproj.SuggestedBindingRedirects.cache
+H:\filterinput\filterctrl\obj\Debug\filterctrl.Properties.Resources.resources
+H:\filterinput\filterctrl\obj\Debug\filterctrl.csproj.GenerateResource.cache
+H:\filterinput\filterctrl\obj\Debug\filterctrl.csproj.CoreCompileInputs.cache
+H:\filterinput\filterctrl\obj\Debug\filterctrl.exe
+H:\filterinput\filterctrl\obj\Debug\filterctrl.pdb
