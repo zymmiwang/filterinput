@@ -1,0 +1,11 @@
+D:\filterinput\flashctrl\obj\Release\flashscreen.csproj.AssemblyReference.cache
+D:\filterinput\flashctrl\obj\Release\flashscreen.Form1.resources
+D:\filterinput\flashctrl\obj\Release\flashscreen.csproj.GenerateResource.cache
+D:\filterinput\flashctrl\obj\Release\flashscreen.csproj.CoreCompileInputs.cache
+D:\filterinput\flashctrl\bin\Release\flashscreen.exe.config
+D:\filterinput\flashctrl\bin\Release\flashscreen.exe
+D:\filterinput\flashctrl\bin\Release\flashscreen.pdb
+D:\filterinput\flashctrl\obj\Release\flashscreen.Form2.resources
+D:\filterinput\flashctrl\obj\Release\flashscreen.Properties.Resources.resources
+D:\filterinput\flashctrl\obj\Release\flashscreen.exe
+D:\filterinput\flashctrl\obj\Release\flashscreen.pdb

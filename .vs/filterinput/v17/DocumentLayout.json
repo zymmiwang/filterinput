@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\filterinput\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{660BE832-2CDD-4B57-BC51-EB956590F0FC}|flashctrl\\flashscreen.csproj|d:\\filterinput\\flashctrl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{660BE832-2CDD-4B57-BC51-EB956590F0FC}|flashctrl\\flashscreen.csproj|solutionrelative:flashctrl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660BE832-2CDD-4B57-BC51-EB956590F0FC}|flashctrl\\flashctrl.csproj|D:\\filterinput\\flashctrl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{660BE832-2CDD-4B57-BC51-EB956590F0FC}|flashctrl\\flashctrl.csproj|solutionrelative:flashctrl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660BE832-2CDD-4B57-BC51-EB956590F0FC}|flashctrl\\flashscreen.csproj|d:\\filterinput\\flashctrl\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{660BE832-2CDD-4B57-BC51-EB956590F0FC}|flashctrl\\flashscreen.csproj|solutionrelative:flashctrl\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660BE832-2CDD-4B57-BC51-EB956590F0FC}|flashctrl\\flashctrl.csproj|D:\\filterinput\\flashctrl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660BE832-2CDD-4B57-BC51-EB956590F0FC}|flashctrl\\flashctrl.csproj|solutionrelative:flashctrl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660BE832-2CDD-4B57-BC51-EB956590F0FC}|flashctrl\\flashscreen.csproj|D:\\filterinput\\flashctrl\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{660BE832-2CDD-4B57-BC51-EB956590F0FC}|flashctrl\\flashscreen.csproj|solutionrelative:flashctrl\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660BE832-2CDD-4B57-BC51-EB956590F0FC}|flashctrl\\flashscreen.csproj|D:\\filterinput\\flashctrl\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660BE832-2CDD-4B57-BC51-EB956590F0FC}|flashctrl\\flashscreen.csproj|solutionrelative:flashctrl\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660BE832-2CDD-4B57-BC51-EB956590F0FC}|flashctrl\\flashscreen.csproj|D:\\filterinput\\flashctrl\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660BE832-2CDD-4B57-BC51-EB956590F0FC}|flashctrl\\flashscreen.csproj|solutionrelative:flashctrl\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660BE832-2CDD-4B57-BC51-EB956590F0FC}|flashctrl\\flashscreen.csproj|D:\\filterinput\\flashctrl\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660BE832-2CDD-4B57-BC51-EB956590F0FC}|flashctrl\\flashscreen.csproj|solutionrelative:flashctrl\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|flashscreen||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660BE832-2CDD-4B57-BC51-EB956590F0FC}|flashctrl\\flashscreen.csproj|D:\\filterinput\\flashctrl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660BE832-2CDD-4B57-BC51-EB956590F0FC}|flashctrl\\flashscreen.csproj|solutionrelative:flashctrl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|filterctrl||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660BE832-2CDD-4B57-BC51-EB956590F0FC}|flashctrl\\flashctrl.csproj|D:\\filterinput\\flashctrl\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{660BE832-2CDD-4B57-BC51-EB956590F0FC}|flashctrl\\flashctrl.csproj|solutionrelative:flashctrl\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|filterinput||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4D02D4-F7BF-469D-B618-8FF1A7C253AD}|filterinput\\filterinput.csproj|D:\\filterinput\\filterinput\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4D02D4-F7BF-469D-B618-8FF1A7C253AD}|filterinput\\filterinput.csproj|solutionrelative:filterinput\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4D02D4-F7BF-469D-B618-8FF1A7C253AD}|filterinput\\filterinput.csproj|D:\\filterinput\\filterinput\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C4D02D4-F7BF-469D-B618-8FF1A7C253AD}|filterinput\\filterinput.csproj|solutionrelative:filterinput\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F30206-7A40-4A59-9654-0BC092C40FFD}|filterctrl\\filterctrl.csproj|D:\\filterinput\\filterctrl\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99F30206-7A40-4A59-9654-0BC092C40FFD}|filterctrl\\filterctrl.csproj|solutionrelative:filterctrl\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F30206-7A40-4A59-9654-0BC092C40FFD}|filterctrl\\filterctrl.csproj|D:\\filterinput\\filterctrl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F30206-7A40-4A59-9654-0BC092C40FFD}|filterctrl\\filterctrl.csproj|solutionrelative:filterctrl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\filterinput\\flashctrl\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "flashctrl\\Form1.Designer.cs",
+              "ToolTip": "D:\\filterinput\\flashctrl\\Form1.Designer.cs",
+              "RelativeToolTip": "flashctrl\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T08:44:57.802Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\filterinput\\flashctrl\\Form1.cs",
+              "RelativeDocumentMoniker": "flashctrl\\Form1.cs",
+              "ToolTip": "D:\\filterinput\\flashctrl\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "flashctrl\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T10:05:55.89Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\filterinput\\flashctrl\\Form2.cs",
+              "RelativeDocumentMoniker": "flashctrl\\Form2.cs",
+              "ToolTip": "D:\\filterinput\\flashctrl\\Form2.cs",
+              "RelativeToolTip": "flashctrl\\Form2.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAIAwwB0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T08:48:34.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\filterinput\\flashctrl\\Form2.cs",
+              "RelativeDocumentMoniker": "flashctrl\\Form2.cs",
+              "ToolTip": "D:\\filterinput\\flashctrl\\Form2.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "flashctrl\\Form2.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T08:48:01.649Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\filterinput\\flashctrl\\Program.cs",
+              "RelativeDocumentMoniker": "flashctrl\\Program.cs",
+              "ToolTip": "D:\\filterinput\\flashctrl\\Program.cs",
+              "RelativeToolTip": "flashctrl\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T08:45:09.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "D:\\filterinput\\flashctrl\\Form1.resx",
+              "RelativeDocumentMoniker": "flashctrl\\Form1.resx",
+              "ToolTip": "D:\\filterinput\\flashctrl\\Form1.resx",
+              "RelativeToolTip": "flashctrl\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-05T08:45:05.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "flashscreen",
+              "DocumentMoniker": "D:\\filterinput\\flashctrl\\flashscreen.csproj",
+              "RelativeDocumentMoniker": "flashctrl\\flashscreen.csproj",
+              "ToolTip": "D:\\filterinput\\flashctrl\\flashscreen.csproj",
+              "RelativeToolTip": "flashctrl\\flashscreen.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-05T08:26:51.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\filterinput\\flashctrl\\Form1.cs",
+              "RelativeDocumentMoniker": "flashctrl\\Form1.cs",
+              "ToolTip": "D:\\filterinput\\flashctrl\\Form1.cs",
+              "RelativeToolTip": "flashctrl\\Form1.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAMwF0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T08:11:49.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "D:\\filterinput\\flashctrl\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "flashctrl\\Form2.Designer.cs",
+              "ToolTip": "D:\\filterinput\\flashctrl\\Form2.Designer.cs",
+              "RelativeToolTip": "flashctrl\\Form2.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T08:50:08.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\filterinput\\flashctrl\\Form1.cs",
+              "RelativeDocumentMoniker": "flashctrl\\Form1.cs",
+              "ToolTip": "D:\\filterinput\\flashctrl\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "flashctrl\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T07:59:16.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "app.manifest",
+              "DocumentMoniker": "D:\\filterinput\\flashctrl\\app.manifest",
+              "RelativeDocumentMoniker": "flashctrl\\app.manifest",
+              "ToolTip": "D:\\filterinput\\flashctrl\\app.manifest",
+              "RelativeToolTip": "flashctrl\\app.manifest",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2024-08-05T08:35:23.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "filterctrl",
+              "DocumentMoniker": "D:\\filterinput\\filterctrl\\filterctrl.csproj",
+              "RelativeDocumentMoniker": "filterctrl\\filterctrl.csproj",
+              "ToolTip": "D:\\filterinput\\filterctrl\\filterctrl.csproj",
+              "RelativeToolTip": "filterctrl\\filterctrl.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-21T08:43:09.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\filterinput\\filterctrl\\Program.cs",
+              "RelativeDocumentMoniker": "filterctrl\\Program.cs",
+              "ToolTip": "D:\\filterinput\\filterctrl\\Program.cs",
+              "RelativeToolTip": "filterctrl\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAADwvyYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T07:55:26.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\filterinput\\filterctrl\\MainForm.cs",
+              "RelativeDocumentMoniker": "filterctrl\\MainForm.cs",
+              "ToolTip": "D:\\filterinput\\filterctrl\\MainForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "filterctrl\\MainForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T07:55:26.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\filterinput\\filterinput\\MainForm.cs",
+              "RelativeDocumentMoniker": "filterinput\\MainForm.cs",
+              "ToolTip": "D:\\filterinput\\filterinput\\MainForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "filterinput\\MainForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T07:55:26.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "filterinput",
+              "DocumentMoniker": "D:\\filterinput\\filterinput\\filterinput.csproj",
+              "RelativeDocumentMoniker": "filterinput\\filterinput.csproj",
+              "ToolTip": "D:\\filterinput\\filterinput\\filterinput.csproj",
+              "RelativeToolTip": "filterinput\\filterinput.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-21T08:34:37.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\filterinput\\filterinput\\MainForm.cs",
+              "RelativeDocumentMoniker": "filterinput\\MainForm.cs",
+              "ToolTip": "D:\\filterinput\\filterinput\\MainForm.cs",
+              "RelativeToolTip": "filterinput\\MainForm.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAEwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T07:55:26.097Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

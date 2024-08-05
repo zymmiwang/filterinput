@@ -1,0 +1,10 @@
+D:\filterinput\flashctrl\bin\Release\flashctrl.exe.config
+D:\filterinput\flashctrl\bin\Release\flashctrl.exe
+D:\filterinput\flashctrl\bin\Release\flashctrl.pdb
+D:\filterinput\flashctrl\obj\Release\flashctrl.csproj.AssemblyReference.cache
+D:\filterinput\flashctrl\obj\Release\flashctrl.Form1.resources
+D:\filterinput\flashctrl\obj\Release\flashctrl.Properties.Resources.resources
+D:\filterinput\flashctrl\obj\Release\flashctrl.csproj.GenerateResource.cache
+D:\filterinput\flashctrl\obj\Release\flashctrl.csproj.CoreCompileInputs.cache
+D:\filterinput\flashctrl\obj\Release\flashctrl.exe
+D:\filterinput\flashctrl\obj\Release\flashctrl.pdb
